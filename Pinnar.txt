@@ -1,0 +1,63 @@
+1. PINNAR
+
+græni takki player 1 fer í pinna 13 
+
+græna ljós player 1 fer í pinna 14
+
+græni takki player 2 fer í pinna 11
+
+græna ljós player 2 fer í pinna 12
+
+
+rauðu takki player 1 fer í pinna 2 
+
+rauðu ljós player 1 fer í pinna 1
+
+rauðu takki player 2 fer í pinna 41
+
+rauðu ljós player 2 fer í pinna 42
+
+
+skjár fara í pinna 47 og 48
+
+skjár (0x27) er player 1
+skjár (0x21) er player 2
+
+ljós 1 hjá player 1 fer í pinna 4
+
+ljós 2 hjá player 1 fer í pinna 5
+
+ljós 3 hjá player 1 fer í pinna 6
+
+ljós 4 hjá player 1 fer í pinna 7
+
+ljós 5 hjá player 1 fer í pinna 8
+
+
+
+ljós 1 hjá player 2 fer í pinna 9
+
+ljós 2 hjá player 2 fer í pinna 15
+
+ljós 3 hjá player 2 fer í pinna 16
+
+ljós 4 hjá player 2 fer í pinna 17
+
+ljós 5 hjá player 2 fer í pinna 18
+
+
+
+
+2. TÁKN
+
+Lauf {0x04, 0x0E, 0x15, 0x15, 0x15, 0x0E, 0x04, 0x0E}
+
+Spaði {0x00, 0x04, 0x0E, 0x1F, 0x1F, 0x0A, 0x04, 0x0E}
+
+Hjarta {0x00, 0x0A, 0x1F, 0x1F, 0x0E, 0x04, 0x00, 0x00}
+
+Tígull {0x00, 0x04, 0x0E, 0x1F, 0x0E, 0x04, 0x00, 0x00}
+
+
+
+ 
